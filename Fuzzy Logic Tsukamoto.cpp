@@ -1,5 +1,5 @@
 #define MAX 1000
-
+// Ini Gabriel loh
 #include <iostream>
 #include <sstream>
 #include <stdlib.h>
